@@ -1,6 +1,6 @@
 # Data Engineer em um Projeto que prevê pessoas com Diabetes
 
-O diabetes é uma doença crônica grave em que os indivíduos perdem a capacidade de regular efetivamente os níveis de glicose no sangue, podendo levar à redução da qualidade de vida e da expectativa de vida.
+A diabetes é uma doença crônica grave em que os indivíduos perdem a capacidade de regular efetivamente os níveis de glicose no sangue, podendo levar à redução da qualidade de vida e da expectativa de vida.
 
 <p align="center">
   <img src="https://github.com/villani31/diabetes/blob/main/diabetes.png" alt="Diabetes"height=400px >
