@@ -45,7 +45,7 @@ Na Squad eu fiz o papel de Engenheiro de Dados, criando infra estrutura para tra
 
 ## Conclusão
 
-Um projeto muito desafiador, em pouco tempo, em conjunto com minha Squad que participei, entregar um projeto de dados completo, desde a Engenharia de Dados, Analise de Dados, Ciências de Dados, e a entrega do produto final, que foi o aplicativo auxilia em prever se a pessoa tem diabetes ou não.
+Um projeto muito desafiador, em pouco tempo, em conjunto com minha Squad que participei, entregar um projeto de dados completo, desde a Engenharia de Dados, Analise de Dados, Ciências de Dados, e a entrega do produto final, que foi o aplicativo que auxilia em prever se a pessoa tem diabetes ou não.
 ____________
 
 **Links:**
