@@ -20,7 +20,9 @@ Na Squad eu fiz o papel de Engenheiro de Dados, criando infra estrutura para tra
 
 ## Overview do Fluxo de Dados
 
-imagem
+<p align="center">
+  <img src="https://github.com/villani31/diabetes/blob/main/Desenho_Projeto_Stacklabs.png" alt="Pipeline"height=400px >
+</p>
 
 ## Entendendo o pipeline:
 
