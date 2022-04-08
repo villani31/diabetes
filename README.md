@@ -42,6 +42,7 @@ Na Squad eu fiz o papel de Engenheiro de Dados, criando infra estrutura para tra
     - Desenvolvido um Pipeline, para carregar os Datsets a partir do Github, transformar em formato parquet, e envia para o serviço da Amazon S3 (Data Lake), no Satage01.
     - Após pegando os arquivos do Satage01, fazendo a limpeza, e consolidando os dados em apenas um dataset, enviando para o Stage02, disponibilizando os dados para o Cientista de Dados fazer analise e criar o modelo.
     - Criando o modelo final, sendo enviado para o Stage03, disponibilizando para a instancia EC2, carregar o App em Streamlit, a partir do modelo gerado.
+    - Liberado o App para acesso externo.
 
 ## Conclusão
 
