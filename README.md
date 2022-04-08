@@ -1,6 +1,10 @@
-# diabetes
-Projeto previsão de pessoas com Diabetes
+# Data Engineer em um Projeto que prevê pessoas com Diabetes
 
+O diabetes é uma doença crônica grave em que os indivíduos perdem a capacidade de regular efetivamente os níveis de glicose no sangue, podendo levar à redução da qualidade de vida e da expectativa de vida.
+
+<p align="center">
+  <img src="https://github.com/villani31/diabetes/blob/main/diabetes.png" alt="Diabetes"height=400px >
+</p>
 
 Participei de um projeto que fez uma analise de previsão com pessoas com diabetes, uma iniciativa da Stack Tecnologia, criou o programa Stack Labs, que simula um projeto real da área de dados.
 
@@ -42,5 +46,8 @@ Na Squad eu fiz o papel de Engenheiro de Dados, criando infra estrutura para tra
 ## Conclusão
 
 Um projeto muito desafiador, em pouco tempo, em conjunto com minha Squad que participei, entregar um projeto de dados completo, desde a Engenharia de Dados, Analise de Dados, Ciências de Dados, e a entrega do produto final, que foi o aplicativo auxilia em prever se a pessoa tem diabetes ou não.
+____________
 
-
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/thiagovillani)
+* [Portfólio de Projetos](https://github.com/villani31/Data_Science)
